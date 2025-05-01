@@ -1,0 +1,9 @@
+# Dependências principais
+python-vlc>=3.0.18
+requests>=2.31.0
+unidecode>=1.3.6
+aria2p>=0.11.3
+
+# Dependências do sistema operacional (instalar via winget no Windows)
+# winget install VideoLAN.VLC
+# winget install aria2 
